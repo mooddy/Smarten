@@ -1,4 +1,4 @@
-Dec.14.2025/Mangsir.29.2082
+Dec.14.2025-Mangsir.29.2082
 
 Shailendra.Shrestha
 Milan.Tamang
