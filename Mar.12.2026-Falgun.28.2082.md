@@ -4,3 +4,8 @@ Shailendra.Shrestha
 Milan.Tamang
 Time:-9:00AM-5:00PM
 
+
+18070112-200M,Wire
+21310872-100M,X6
+20964183-Managed
+
