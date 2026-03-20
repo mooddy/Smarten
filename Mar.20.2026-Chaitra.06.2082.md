@@ -3,3 +3,17 @@ Mar.20.2026-Chaitra.06.2082
 Shailendra.Shrestha
 Milan.Tamang
 Time:-9:00AM-5:00PM
+
+16838237-Managed
+16580129-100M,Wire
+18112935-ITV,Managed
+17203970-Managed
+20232198-FV
+19117163-Managed
+16838237-Managed
+17281717-Managed
+13490383-Managed
+17203970-Managed
+20686864-Managed
+19880014-Managed
+21325788-FV
