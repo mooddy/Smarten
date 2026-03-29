@@ -3,3 +3,12 @@ Mar.29.2026-Chaitra.15.2082
 Shailendra.Shrestha
 Milan.Tamang
 Time:-9:00AM-5:00PM
+
+2763560-A5,Replace
+17936086-100M,Wire
+19426051-150M,Wire
+16890783-Managed
+20901236-Managed
+21270657-ITV
+21340319-150+50M,X6
+21270657-V5,Replace
