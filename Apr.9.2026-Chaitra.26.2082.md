@@ -3,3 +3,10 @@ Apr.9.2026-Chaitra.26.2082
 Shailendra.Shrestha
 Milan.Tamang
 Time:-9:00AM-5:00PM
+
+21080172-Wire,150M
+8121955-Wire,175M
+20411750-Wire,75M
+2033520-Managed
+5303808-Managed
+17067609-Managed
