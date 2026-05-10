@@ -4,9 +4,12 @@ Shailendra.Shrestha
 Milan.Tamang
 Time:-9:00AM-5:00PM
 
-15222439- managed
-18673448- wire managed
-21468429-new install
-21468376-new install
-7156967-relacation
-20708674-relacation
+15222439- Managed
+18673448- Managed
+21468429-V5,250M
+21468376-V5,200M
+7156967-Wire,150M
+20708674-Wire,150M
+21469952-FV
+
+
