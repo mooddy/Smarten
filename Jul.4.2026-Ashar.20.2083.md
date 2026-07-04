@@ -9,8 +9,9 @@ Milan.Syangbo
 13697873-Managed
 5885908-Managed
 10867905-Managed
-5885908-Managed
-17080025-Managed
+5885908-Wire,50M
+17080025-Wire,200M
+
 
 
 
