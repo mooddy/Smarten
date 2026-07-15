@@ -1,3 +1,13 @@
 Jul.15.2026-Ashar.31.2083
 Dipak Thapa sanga
 9-5
+
+20879853-Managed
+21681077-X6,100M
+17765092-Wire,250M
+557705-Managed
+17959686-Wire,250M
+21317861-Managed
+20862240-Managed
+21087573-Managed
+17531269-Managed
