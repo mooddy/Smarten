@@ -2,3 +2,10 @@ Jul.20.2026-Shrawan.04.2083
 Milan.Syangbo
 9-5
 
+21696572-X6,100M
+16651350-Managed
+16781750-Mnaaged
+17654587-Managed
+20874533-Managed
+17927084-Managed
+21514659-X6,Replae
