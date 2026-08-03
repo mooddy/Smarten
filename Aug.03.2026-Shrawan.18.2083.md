@@ -2,3 +2,13 @@ Aug.03.2026-Shrawan.18.2083
 Milan.Syangbo
 9-5
 
+17485941-Managed
+21731333-FV
+20607487-Managed
+14848320-Managed
+18070678-Managed
+8152166-Managed
+21737944-X6,75M
+16484153-Managed
+17800004-Mnaaged
+14579208-Wire,100M
