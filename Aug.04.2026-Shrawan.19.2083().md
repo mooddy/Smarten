@@ -2,6 +2,9 @@ Aug.04.2026-Shrawan.19.2083
 Milan.Syangbo
 9-5
 
+(250exchangedwith100frommilan)
+DMG250,150,75-1
+
 6941514-Wire,50M
 17295180-V5,Replace
 21738636-X6,200M
