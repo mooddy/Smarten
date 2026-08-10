@@ -1,4 +1,4 @@
-Aug.08.2026-Shrawan.23.2083.
+Aug.08.2026-Shrawan.23.2083
 Milan.Syangbo
 9-5
 
