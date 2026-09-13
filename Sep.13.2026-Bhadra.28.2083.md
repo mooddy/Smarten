@@ -2,3 +2,11 @@ Sep.13.2026-Bhadra.28.2083
 Milan.Syangbo
 9-5
 
+7440334-Managed
+17944411-HDMI,Adapter
+17525147-Managed
+6282491-Managed
+21370590-Managed
+16983132-Managed
+21860138-FV
+
