@@ -10,5 +10,5 @@ Milan.Syangbo
 21048328-Wire,100M
 16990044-Managed
 5759282-Managed
-5759828-100M,Wire
+5759828-Wire,100M
 
