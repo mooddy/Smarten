@@ -4,7 +4,7 @@ Milan.Syangbo
 
 21420847-Wire,100M
 17623964-Managed
-20559523-Managed
+20559523-Managed*
 21420847-Wire,50M
 1845298-Managed
 17480434-V5,Replace
