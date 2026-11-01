@@ -12,5 +12,5 @@ Syanbgo.Milan
 17307780-Wire,75M
 16238338-Managed
 20420760-Managed
-16671524-Managed
+16671524-Wire,75M
 18151548-Managed
